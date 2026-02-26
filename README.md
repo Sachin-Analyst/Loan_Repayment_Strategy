@@ -11,7 +11,7 @@ Welcome to my financial analytics project. This repository features a comprehens
 - [Usage](#usage)  
 - [License](#license)
 
-
+## Introduction
 --- 
 *Project Title:* Loan Repayment Strategy  
 *Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)  
