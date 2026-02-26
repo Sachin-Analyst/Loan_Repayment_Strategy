@@ -39,7 +39,7 @@ To explore or modify this Power BI project:
 1. *Clone the repository:*
    ```bash
 
-   git clone https://github.com/Sachin-Analyst/Loan_Repayment_Strategy.git
+   git clone https://github.com/Sachin-Analyst/Loan_Repayment_Strategy
 
 2. Download and Open MS Excel 
    - This analysis can be done using any versions of excel
