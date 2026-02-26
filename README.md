@@ -36,10 +36,16 @@ This project addresses a critical financial challenge: securing a ₹15,00,000 l
 
 To explore or modify this Power BI project:
 
-1. *Clone the repository:*
+1. *Clone the repository:*   
    ```bash
 
    git clone https://github.com/Sachin-Analyst/Loan_Repayment_Strategy
+
+
+` 
+
+- Open terminal and run the command
+
 
 2. Download and Open MS Excel 
    - This analysis can be done using any versions of excel
