@@ -34,7 +34,7 @@ This project addresses a critical financial challenge: securing a ₹15,00,000 l
 
 ## Installation
 
-To explore or modify this Power BI project:
+To explore or modify this Excel project:
 
 1. *Clone the repository:*   
    ```bash
